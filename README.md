@@ -1,0 +1,2 @@
+# Emotion-Detection-and-Hatespeech-Detection-with-Python-NLP-LLM-project-Nlp-python
+In this project, we delve into the fascinating world of Natural Language Processing (NLP) using Python. Build how to implement end-to-end projects for Emotion Detection and Hate speech Detection using state-of-the-art large language models. From preprocessing text data to training powerful models, this project covers it all. 
